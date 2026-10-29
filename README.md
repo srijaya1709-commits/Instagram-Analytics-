@@ -2,6 +2,9 @@
 
 Exploratory data analysis (EDA) of an Instagram posts dataset (about 30,000 posts) to understand what drives engagement.
 
+**Author:** Jaya Sri C
+**GitHub:** [srijaya1709-commits](https://github.com/srijaya1709-commits)
+
 ## What this project does
 - Loads the dataset and checks for missing values
 - Calculates mean, median, mode and standard deviation for key metrics: follower count, likes, comments, shares, saves, reach, impressions and engagement rate
@@ -20,13 +23,13 @@ Exploratory data analysis (EDA) of an Instagram posts dataset (about 30,000 post
 5. Next step: compare engagement rate by posting hour, media type, traffic source and call-to-action to find what to post and when.
 
 ## Tools used
-Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- Python, pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook
+- Antigravity IDE
 
 ## How to run
-1. Clone this repository
-2. Install the libraries: `pip install pandas numpy matplotlib seaborn jupyter`
-3. Change the CSV path in the notebook to where your dataset is saved
-4. Open `Instagram Analytics.ipynb` and run all cells
-
-## Files
-- `Instagram Analytics.ipynb`: the full analysis
+1. Download or clone this repository
+2. Open the notebook in Antigravity IDE (or any Jupyter-compatible editor)
+3. Install the libraries: `pip install pandas numpy matplotlib seaborn jupyter`
+4. Change the CSV path in the notebook to where your dataset is saved
+5. Run all cells
